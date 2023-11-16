@@ -3,4 +3,4 @@ def restar(a,b):
 
 
 if __name__ == "__main__":
-    print(resta(7,4))
+    print(restar(7,4))
